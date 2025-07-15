@@ -1,0 +1,821 @@
+[
+  {
+    "name": "11th St. Bar",
+    "address": "E Village NYC NY",
+    "lat": 40.776715,
+    "lng": -73.7490116,
+    "tags": []
+  },
+  {
+    "name": "80/20 Burger Bar",
+    "address": "Hampton Roads VA",
+    "lat": 36.9338606,
+    "lng": -76.3637285,
+    "tags": []
+  },
+  {
+    "name": "Abbey Tavern",
+    "address": "5151 E Colfax Ave, Denver, CO",
+    "lat": 39.74060790000001,
+    "lng": -104.92775,
+    "tags": []
+  },
+  {
+    "name": "AJ Hudson's Public House",
+    "address": "3801 N Ashland Ave, Chicago, IL",
+    "lat": 41.95077360000001,
+    "lng": -87.66865270000001,
+    "tags": []
+  },
+  {
+    "name": "Amsterdam Tavern",
+    "address": "3175 Morganford Rd St. Louis MO",
+    "lat": 38.6019259,
+    "lng": -90.2617593,
+    "tags": []
+  },
+  {
+    "name": "Baldwin Street Grille",
+    "address": "1304 E Washington Avenue Madison WI",
+    "lat": 43.0875881,
+    "lng": -89.3663502,
+    "tags": []
+  },
+  {
+    "name": "Bar LoSo",
+    "address": "3609 South Blvd Suite C Charlotte NC 28209",
+    "lat": 35.1922563,
+    "lng": -80.8733216,
+    "tags": []
+  },
+  {
+    "name": "Barchen",
+    "address": "6209 Maple St Omaha NE 68104",
+    "lat": 41.2847961,
+    "lng": -96.0089034,
+    "tags": []
+  },
+  {
+    "name": "BD Riley's",
+    "address": "1905 Aldrich St Ste 130 Austin TX 78723",
+    "lat": 30.29820429999999,
+    "lng": -97.7050625,
+    "tags": []
+  },
+  {
+    "name": "Boyd's Jig and Reel",
+    "address": "101 S Central Ave Knoxville TN 37902",
+    "lat": 35.9702037,
+    "lng": -83.9185727,
+    "tags": []
+  },
+  {
+    "name": "Brits Pub",
+    "address": "Nicollet Mall Downtown Minneapolis MN",
+    "lat": 44.9759372,
+    "lng": -93.2730645,
+    "tags": []
+  },
+  {
+    "name": "Brogues DownUnder",
+    "address": "621 Lake Ave, Lake Worth, FL",
+    "lat": 26.6155843,
+    "lng": -80.05524539999999,
+    "tags": []
+  },
+  {
+    "name": "Café 413",
+    "address": "Rincón Puerto Rico",
+    "lat": 18.3317391,
+    "lng": -67.2311584,
+    "tags": []
+  },
+  {
+    "name": "Cat 'n Fiddle",
+    "address": "540 16 Ave NW, Calgary, AB",
+    "lat": 51.0672242,
+    "lng": -114.0735864,
+    "tags": []
+  },
+  {
+    "name": "Catherine Rooney's",
+    "address": "1616 Delaware Ave, Wilmington, DE",
+    "lat": 39.7574954,
+    "lng": -75.562331,
+    "tags": []
+  },
+  {
+    "name": "Cavanaugh's Headhouse",
+    "address": "Philadelphia PA",
+    "lat": 39.9525839,
+    "lng": -75.1652215,
+    "tags": []
+  },
+  {
+    "name": "Champy's Murfreesboro",
+    "address": "1290 NW Broad St Murfreesboro TN 37129",
+    "lat": 35.863206,
+    "lng": -86.408171,
+    "tags": []
+  },
+  {
+    "name": "Chicken N Pickle",
+    "address": "1761 Burlington St North Kansas City MO 64116",
+    "lat": 39.140091,
+    "lng": -94.5800958,
+    "tags": []
+  },
+  {
+    "name": "Christy's Public House",
+    "address": "261 Orange St, New Haven, CT",
+    "lat": 41.307889,
+    "lng": -72.92214899999999,
+    "tags": []
+  },
+  {
+    "name": "Courtyard Pub",
+    "address": "1437 King Street East Courtice Ontario Canada",
+    "lat": 43.9066999,
+    "lng": -78.8084879,
+    "tags": []
+  },
+  {
+    "name": "Crown Public House",
+    "address": "333 E Jefferson St Phoenix AZ 85004",
+    "lat": 33.445496,
+    "lng": -112.0696917,
+    "tags": []
+  },
+  {
+    "name": "Crystal City Sports Pub",
+    "address": "529 23rd St S Arlington VA",
+    "lat": 38.8535674,
+    "lng": -77.0543397,
+    "tags": []
+  },
+  {
+    "name": "Dargan's Irish Pub",
+    "address": "Downtown Santa Barbara CA",
+    "lat": 34.4235246,
+    "lng": -119.7035088,
+    "tags": []
+  },
+  {
+    "name": "DeVeres Irish Pub",
+    "address": "1521 L St, Sacramento, CA",
+    "lat": 38.5763536,
+    "lng": -121.4865029,
+    "tags": []
+  },
+  {
+    "name": "Docksider Pub and Restaurant",
+    "address": "Front Street, Hamilton, BERM",
+    "lat": 32.2924717,
+    "lng": -64.7836817,
+    "tags": []
+  },
+  {
+    "name": "Doyle's Pub",
+    "address": "Tacoma WA",
+    "lat": 47.255134,
+    "lng": -122.4420002,
+    "tags": []
+  },
+  {
+    "name": "Duck & Dive Pub",
+    "address": "Wilmington NC",
+    "lat": 34.2103894,
+    "lng": -77.8868117,
+    "tags": []
+  },
+  {
+    "name": "Durty Nelly's Irish Pub",
+    "address": "1645 Argyle St Halifax NS B3J 2B5",
+    "lat": 44.6462282,
+    "lng": -63.57416259999999,
+    "tags": []
+  },
+  {
+    "name": "El Pinchoneo",
+    "address": "Guaynabo Puerto Rico",
+    "lat": 18.3260175,
+    "lng": -66.1058343,
+    "tags": []
+  },
+  {
+    "name": "Elephant & Castle",
+    "address": "King & Simcoe Toronto ON",
+    "lat": 43.647522,
+    "lng": -79.38594800000001,
+    "tags": []
+  },
+  {
+    "name": "Fado Irish Pub",
+    "address": "900 S Miami Ave, Miami, FL",
+    "lat": 25.7650202,
+    "lng": -80.1936128,
+    "tags": []
+  },
+  {
+    "name": "Fiddlers Green",
+    "address": "333 El Camino Real Millbrae CA",
+    "lat": 37.6015317,
+    "lng": -122.3915479,
+    "tags": []
+  },
+  {
+    "name": "Fieldhouse American Sports Pub",
+    "address": "Sacramento CA",
+    "lat": 38.5781342,
+    "lng": -121.4944209,
+    "tags": []
+  },
+  {
+    "name": "Finn McCools",
+    "address": "3701 Banks St., New Orleans, LA",
+    "lat": 29.9696482,
+    "lng": -90.0993012,
+    "tags": []
+  },
+  {
+    "name": "Fox and Hounds",
+    "address": "3514 W Vine St, Oakland Park, FL",
+    "lat": 26.1723065,
+    "lng": -80.1319893,
+    "tags": []
+  },
+  {
+    "name": "Funky Murphy's",
+    "address": "305 Shrewbury Street, Worcester, MA",
+    "lat": 42.2687186,
+    "lng": -71.779716,
+    "tags": []
+  },
+  {
+    "name": "Gallagher's Pub",
+    "address": "2751 E Broadway Long Beach CA",
+    "lat": 33.7657778,
+    "lng": -118.1594215,
+    "tags": []
+  },
+  {
+    "name": "Gallaghers Pub",
+    "address": "2751 Broadway, Long Beach, CA",
+    "lat": 33.7657778,
+    "lng": -118.1594215,
+    "tags": []
+  },
+  {
+    "name": "Gramps Bar",
+    "address": "Wynwood Arts District Miami FL",
+    "lat": 25.8014685,
+    "lng": -80.1990903,
+    "tags": []
+  },
+  {
+    "name": "Harp & Celt",
+    "address": "25 S. Magnolia Ave Orlando FL 32801",
+    "lat": 28.541629,
+    "lng": -81.3772583,
+    "tags": []
+  },
+  {
+    "name": "Harp and Celt Irish Pub",
+    "address": "25 S Magnolia Ave, Orlando, FL",
+    "lat": 28.541629,
+    "lng": -81.3772583,
+    "tags": []
+  },
+  {
+    "name": "Henry's Pub",
+    "address": "Gaslamp District San Diego CA",
+    "lat": 32.7114267,
+    "lng": -117.1599305,
+    "tags": []
+  },
+  {
+    "name": "Home A Bar",
+    "address": "Portland OR",
+    "lat": 45.515232,
+    "lng": -122.6783853,
+    "tags": []
+  },
+  {
+    "name": "Hugh O'Connors at Marq'E Houston",
+    "address": "7620 Katy Fwy Houston TX 77024",
+    "lat": 29.7854751,
+    "lng": -95.4659282,
+    "tags": []
+  },
+  {
+    "name": "Iggy's Bar",
+    "address": "Lakewood OH",
+    "lat": 41.4819932,
+    "lng": -81.7981908,
+    "tags": []
+  },
+  {
+    "name": "Iron Abbey",
+    "address": "Horsham PA",
+    "lat": 40.1784422,
+    "lng": -75.1285061,
+    "tags": []
+  },
+  {
+    "name": "Joxer Daly's",
+    "address": "11168 W Washington Blvd, Culver City, CA",
+    "lat": 34.007796,
+    "lng": -118.4123449,
+    "tags": []
+  },
+  {
+    "name": "Kelly Brothers Irish Pub",
+    "address": "3045 N Federal Hwy Fort Lauderdale FL 33306",
+    "lat": 26.1663059,
+    "lng": -80.11777719999999,
+    "tags": []
+  },
+  {
+    "name": "Kezar Pub",
+    "address": "770 Stanyan St, San Francisco, CA",
+    "lat": 37.7678896,
+    "lng": -122.4529242,
+    "tags": []
+  },
+  {
+    "name": "Kildare's",
+    "address": "West Chester PA",
+    "lat": 39.959884,
+    "lng": -75.6062135,
+    "tags": []
+  },
+  {
+    "name": "Legacy Ale Works",
+    "address": "Jacksonville FL",
+    "lat": 30.3297566,
+    "lng": -81.6591529,
+    "tags": []
+  },
+  {
+    "name": "Local Cantina",
+    "address": "743 S High St Columbus OH",
+    "lat": 39.9467605,
+    "lng": -82.9979886,
+    "tags": []
+  },
+  {
+    "name": "London Bridge Pub",
+    "address": "110 E. Hargett Street Raleigh NC",
+    "lat": 35.7781193,
+    "lng": -78.63779079999999,
+    "tags": []
+  },
+  {
+    "name": "London Heights",
+    "address": "7701 N Nebraska Ave, Tampa Bay, FL",
+    "lat": 28.017771,
+    "lng": -82.45113289999999,
+    "tags": []
+  },
+  {
+    "name": "Lucky Baldwin's",
+    "address": "17 S Raymond Ave, Los Angeles, CA",
+    "lat": 34.0345421,
+    "lng": -118.2975611,
+    "tags": []
+  },
+  {
+    "name": "Lucky Baldwins Pub",
+    "address": "17 South Raymond Ave. Pasadena CA",
+    "lat": 34.1453862,
+    "lng": -118.1490371,
+    "tags": []
+  },
+  {
+    "name": "Maloney's Local",
+    "address": "1120 E. Kennedy Blvd. Tampa FL 33602",
+    "lat": 27.9512182,
+    "lng": -82.4476554,
+    "tags": []
+  },
+  {
+    "name": "McClellan's Pub",
+    "address": "6694 Sawmill Rd Dublin OH",
+    "lat": 40.10404,
+    "lng": -83.0891906,
+    "tags": []
+  },
+  {
+    "name": "Meehan's Public House",
+    "address": "200 Peachtree St NE, Atlanta, GA",
+    "lat": 33.7625037,
+    "lng": -84.3877274,
+    "tags": []
+  },
+  {
+    "name": "Mickey Burke's",
+    "address": "South Beach Miami FL",
+    "lat": 25.7826123,
+    "lng": -80.1340772,
+    "tags": []
+  },
+  {
+    "name": "MJ's",
+    "address": "Brick NJ",
+    "lat": 40.06074479999999,
+    "lng": -74.14058849999999,
+    "tags": []
+  },
+  {
+    "name": "Molly Malone's Highlands",
+    "address": "933 Baxter Avenue, Louisville, KY",
+    "lat": 38.2417636,
+    "lng": -85.725056,
+    "tags": []
+  },
+  {
+    "name": "Molly Malone's Irish Pub",
+    "address": "933 Baxter Ave Louisville KY",
+    "lat": 38.2417636,
+    "lng": -85.725056,
+    "tags": []
+  },
+  {
+    "name": "Molly O's",
+    "address": "1163 San Carlos Ave San Carlos CA",
+    "lat": 37.5066152,
+    "lng": -122.2607237,
+    "tags": []
+  },
+  {
+    "name": "Mr. G's Sports Bar",
+    "address": "Harrisburg PA",
+    "lat": 40.2731911,
+    "lng": -76.8867008,
+    "tags": []
+  },
+  {
+    "name": "O'Flahertys Pub",
+    "address": "San Jose CA",
+    "lat": 37.33874,
+    "lng": -121.8852525,
+    "tags": []
+  },
+  {
+    "name": "OFlahertys Irish Pub",
+    "address": "25 North San Pedro St, San Jose, CA",
+    "lat": 37.3355033,
+    "lng": -121.8934592,
+    "tags": []
+  },
+  {
+    "name": "Old Bull and Bush Pub and Eatery",
+    "address": "Myrtle Beach SC",
+    "lat": 33.6954218,
+    "lng": -78.8802094,
+    "tags": []
+  },
+  {
+    "name": "Over the Horizon / Brewlab",
+    "address": "Charleston SC",
+    "lat": 32.7833163,
+    "lng": -79.9319664,
+    "tags": []
+  },
+  {
+    "name": "Party Fowl",
+    "address": "Hamilton Place Chattanooga TN",
+    "lat": 35.0457984,
+    "lng": -85.3093995,
+    "tags": []
+  },
+  {
+    "name": "Party Fowl",
+    "address": "2620 Lebanon Pike Nashville TN 37214",
+    "lat": 36.1697147,
+    "lng": -86.6711898,
+    "tags": []
+  },
+  {
+    "name": "Penny Lane Pub",
+    "address": "421 E. Franklin St. Richmond VA 23219",
+    "lat": 37.541087,
+    "lng": -77.4394422,
+    "tags": []
+  },
+  {
+    "name": "Playwright Irish Pub",
+    "address": "501 Silks Run, South Beach, FL",
+    "lat": 25.9793775,
+    "lng": -80.1389291,
+    "tags": []
+  },
+  {
+    "name": "Pokey's",
+    "address": "100 E Madison St, Tampa Bay, FL",
+    "lat": 27.9481457,
+    "lng": -82.4597785,
+    "tags": []
+  },
+  {
+    "name": "Queen Vic British Pub",
+    "address": "1206 H St NE, Washington DC, DC",
+    "lat": 38.9003879,
+    "lng": -76.9898627,
+    "tags": []
+  },
+  {
+    "name": "Random Row Brewing Co.",
+    "address": "Charlottesville VA",
+    "lat": 38.0301826,
+    "lng": -78.4769353,
+    "tags": []
+  },
+  {
+    "name": "Rhinehaus",
+    "address": "Over-the-Rhine Cincinnati OH",
+    "lat": 39.112883,
+    "lng": -84.5159479,
+    "tags": []
+  },
+  {
+    "name": "River Trail Brewing",
+    "address": "Marietta PA",
+    "lat": 40.0570411,
+    "lng": -76.5521882,
+    "tags": []
+  },
+  {
+    "name": "Rock and Brews",
+    "address": "Tustin CA 92780",
+    "lat": 33.7372177,
+    "lng": -117.8135579,
+    "tags": []
+  },
+  {
+    "name": "Senor Grubbys",
+    "address": "377 Carlsbad Village Drive Carlsbad CA 92008",
+    "lat": 33.1586011,
+    "lng": -117.3499185,
+    "tags": []
+  },
+  {
+    "name": "Señor Grubbys",
+    "address": "377 Carlsbad Village Drive, Carlsbad, CA",
+    "lat": 33.1586011,
+    "lng": -117.3499185,
+    "tags": []
+  },
+  {
+    "name": "Skinny Slims",
+    "address": "201 E Main St Oklahoma City OK",
+    "lat": 35.4677039,
+    "lng": -97.50885029999999,
+    "tags": []
+  },
+  {
+    "name": "Slainte Irish Pub and Restaurant",
+    "address": "1700 Thames Street, Baltimore, MD",
+    "lat": 39.2820337,
+    "lng": -76.59255019999999,
+    "tags": []
+  },
+  {
+    "name": "Smaltimore",
+    "address": "2522 Fait Ave, Baltimore, MD",
+    "lat": 39.2832544,
+    "lng": -76.5804826,
+    "tags": []
+  },
+  {
+    "name": "St. Andrews Bar & Grill",
+    "address": "Seattle WA",
+    "lat": 47.6061389,
+    "lng": -122.3328481,
+    "tags": []
+  },
+  {
+    "name": "The Abbey Tavern",
+    "address": "Denver CO 80220",
+    "lat": 39.7316982,
+    "lng": -104.9213643,
+    "tags": []
+  },
+  {
+    "name": "The Anvil Pub and Grill",
+    "address": "Birmingham AL",
+    "lat": 33.5185892,
+    "lng": -86.8103567,
+    "tags": []
+  },
+  {
+    "name": "The Auld Dubliner",
+    "address": "2497 Park Ave, Orange County, CA",
+    "lat": 33.5506384,
+    "lng": -117.7608058,
+    "tags": []
+  },
+  {
+    "name": "The Bellwether",
+    "address": "Greenville SC",
+    "lat": 34.8484984,
+    "lng": -82.40001579999999,
+    "tags": []
+  },
+  {
+    "name": "The British Bulldog Pub",
+    "address": "Columbia SC",
+    "lat": 34.0008322,
+    "lng": -81.035147,
+    "tags": []
+  },
+  {
+    "name": "The Butcher & Bullock Pub",
+    "address": "911 West Pender Street, Vancouver, BC",
+    "lat": 49.286201,
+    "lng": -123.1169709,
+    "tags": []
+  },
+  {
+    "name": "The Cabin pub",
+    "address": "Edmonton Alberta",
+    "lat": 53.5460983,
+    "lng": -113.4937266,
+    "tags": []
+  },
+  {
+    "name": "The Cat 'n Fiddle",
+    "address": "540 16th Avenue NW Calgary Canada",
+    "lat": 51.0672242,
+    "lng": -114.0735864,
+    "tags": []
+  },
+  {
+    "name": "The Cellar Bar & Grille",
+    "address": "3256 Lansdowne Dr Lexington KY",
+    "lat": 37.9980768,
+    "lng": -84.4990613,
+    "tags": []
+  },
+  {
+    "name": "The Craftroom",
+    "address": "2809 Broadbent Pkwy NE Albuquerque NM 87107",
+    "lat": 35.1131169,
+    "lng": -106.629313,
+    "tags": []
+  },
+  {
+    "name": "The Docksider Pub & Restaurant",
+    "address": "Front Street Hamilton Bermuda",
+    "lat": 32.2924717,
+    "lng": -64.7836817,
+    "tags": []
+  },
+  {
+    "name": "The Field",
+    "address": "20 Prospect St, Cambridge, MA",
+    "lat": 42.3658043,
+    "lng": -71.10342159999999,
+    "tags": []
+  },
+  {
+    "name": "The Great British Food Company",
+    "address": "Colorado Springs CO",
+    "lat": 38.8353142,
+    "lng": -104.8216009,
+    "tags": []
+  },
+  {
+    "name": "The Irish Brigade",
+    "address": "621 Lake Ave Lake Worth FL 33460",
+    "lat": 26.6155843,
+    "lng": -80.05524539999999,
+    "tags": []
+  },
+  {
+    "name": "The Londoner Pub",
+    "address": "4930 Midway Rd Addison TX 75001",
+    "lat": 32.9871028,
+    "lng": -96.84204179999999,
+    "tags": []
+  },
+  {
+    "name": "The Monro Pub",
+    "address": "Park Slope Brooklyn NY",
+    "lat": 40.6710672,
+    "lng": -73.98142279999999,
+    "tags": []
+  },
+  {
+    "name": "The Phoenix Landing",
+    "address": "512 Massachusetts Ave, Cambridge/Boston, MA",
+    "lat": 42.3391892,
+    "lng": -71.0799311,
+    "tags": []
+  },
+  {
+    "name": "The Princess Pub",
+    "address": "1665 India Street, San Diego, CA",
+    "lat": 32.7228175,
+    "lng": -117.1679718,
+    "tags": []
+  },
+  {
+    "name": "The Queen Vic British Pub",
+    "address": "1206 H St. NE Washington DC",
+    "lat": 38.9003879,
+    "lng": -76.9898627,
+    "tags": []
+  },
+  {
+    "name": "The Rising",
+    "address": "1172 Cambridge St, Cambridge, MA",
+    "lat": 42.37300339999999,
+    "lng": -71.096992,
+    "tags": []
+  },
+  {
+    "name": "The Rose and Crown",
+    "address": "628 E Adams St, Phoenix, AZ",
+    "lat": 33.4495791,
+    "lng": -112.0654562,
+    "tags": []
+  },
+  {
+    "name": "The Royal Mile",
+    "address": "210 SW 4th St Des Moines IA",
+    "lat": 41.583091,
+    "lng": -93.6209174,
+    "tags": []
+  },
+  {
+    "name": "The Slye Fox",
+    "address": "New St Burlington ON",
+    "lat": 43.3552745,
+    "lng": -79.7668664,
+    "tags": []
+  },
+  {
+    "name": "The Winchester",
+    "address": "5148 Broadway St San Antonio TX",
+    "lat": 29.474317,
+    "lng": -98.4622559,
+    "tags": []
+  },
+  {
+    "name": "Thomas Magee's Sporting House & Whiskey Bar",
+    "address": "Detroit MI",
+    "lat": 42.32971819999999,
+    "lng": -83.0424533,
+    "tags": []
+  },
+  {
+    "name": "Three Lion's Pub",
+    "address": "4515 N. Oakland Ave Milwaukee WI 53211",
+    "lat": 43.0986297,
+    "lng": -87.8877856,
+    "tags": []
+  },
+  {
+    "name": "Trinity Bar and Restaurant",
+    "address": "157 Orange Street New Haven CT 06510",
+    "lat": 41.306023,
+    "lng": -72.9235948,
+    "tags": []
+  },
+  {
+    "name": "Union Jack Pub",
+    "address": "924 Broad Ripple Ave, Indianapolis, IN",
+    "lat": 39.8699474,
+    "lng": -86.1420052,
+    "tags": []
+  },
+  {
+    "name": "Union Jack's",
+    "address": "Glenside & Manatawny PA",
+    "lat": 40.0999077,
+    "lng": -75.1527928,
+    "tags": []
+  },
+  {
+    "name": "Wendy's Sports Bar",
+    "address": "Risk Road St James Barbados",
+    "lat": 13.1501573,
+    "lng": -59.6364783,
+    "tags": []
+  },
+  {
+    "name": "Whistle Stop Bar and Grill",
+    "address": "85 Main Street, Oxford, MA",
+    "lat": 42.092711,
+    "lng": -71.8723017,
+    "tags": []
+  },
+  {
+    "name": "White Lion Pub",
+    "address": "6927 S Canton Ave Tulsa OK",
+    "lat": 36.0618377,
+    "lng": -95.9184263,
+    "tags": []
+  }
+]

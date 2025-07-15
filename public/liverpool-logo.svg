@@ -1,0 +1,5 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="45" fill="#c8102e" stroke="#ffffff" stroke-width="2"/>
+  <text x="50" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">LFC</text>
+  <text x="50" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ffffff">YNWA</text>
+</svg>

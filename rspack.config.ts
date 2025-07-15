@@ -1,13 +1,14 @@
-import { defineConfig } from "@rspack/cli";
+
 import { rspack } from "@rspack/core";
-import { ReactRefreshRspackPlugin } from "@rspack/plugin-react-refresh";
+import ReactRefreshRspackPlugin from "@rspack/plugin-react-refresh";
+import { withZephyr } from "zephyr-rspack-plugin"
 
 const isDev = process.env.NODE_ENV === "development";
 
 // Target browsers, see: https://github.com/browserslist/browserslist
 const targets = ["last 2 versions", "> 0.2%", "not dead", "Firefox ESR"];
 
-export default defineConfig({
+export default withZephyr()({
 	entry: {
 		main: "./src/main.tsx"
 	},
@@ -43,6 +44,15 @@ export default defineConfig({
 						}
 					}
 				]
+			},
+			{
+				test: /\.css$/,
+				use: [
+					{
+						loader: "postcss-loader"
+					}
+				],
+				type: "css"
 			}
 		]
 	},

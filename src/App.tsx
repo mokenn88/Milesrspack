@@ -1,31 +1,36 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import "./App.css";
+import { useState } from 'react';
+import Layout from './components/Layout';
+import SearchBar from './components/SearchBar';
+import PubCard from './components/PubCard';
+import NearestPubFinder from './components/NearestPubFinder';
+import type { Pub } from './types/Pub';
+import rawPubs from './assets/pubs.json' assert { type: 'json' };
 
-function App() {
-	const [count, setCount] = useState(0);
+const pubs: Pub[] = rawPubs;
 
-	return (
-		<div className="App">
-			<div>
-				<a href="https://reactjs.org" target="_blank" rel="noreferrer">
-					<img src={reactLogo} className="logo react" alt="React logo" />
-				</a>
-			</div>
-			<h1>Rspack + React + TypeScript</h1>
-			<div className="card">
-				<button type="button" onClick={() => setCount(count => count + 1)}>
-					count is {count}
-				</button>
-				<p>
-					Edit <code>src/App.tsx</code> and save to test HMR
-				</p>
-			</div>
-			<p className="read-the-docs">
-				Click on the Rspack and React logos to learn more
-			</p>
-		</div>
-	);
+export default function App() {
+  const [searchTerm, setSearchTerm] = useState('');
+
+  const filteredPubs = pubs.filter((pub) =>
+    pub.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+    pub.address.toLowerCase().includes(searchTerm.toLowerCase())
+  );
+
+  return (
+    <Layout>
+      <NearestPubFinder pubs={pubs} />
+      <SearchBar value={searchTerm} onChange={setSearchTerm} />
+      <div className="space-y-4 mt-4">
+        {filteredPubs.length > 0 ? (
+          filteredPubs.map((pub, index) => (
+            <PubCard key={index} pub={pub} />
+          ))
+        ) : (
+          <p className="text-center text-gray-400 mt-8">
+            No pubs found. Try a different search.
+          </p>
+        )}
+      </div>
+    </Layout>
+  );
 }
-
-export default App;
